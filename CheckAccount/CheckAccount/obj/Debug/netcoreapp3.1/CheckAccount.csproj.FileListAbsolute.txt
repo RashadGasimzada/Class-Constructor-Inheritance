@@ -1,0 +1,14 @@
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\bin\Debug\netcoreapp3.1\CheckAccount.exe
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\bin\Debug\netcoreapp3.1\CheckAccount.deps.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\bin\Debug\netcoreapp3.1\CheckAccount.runtimeconfig.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\bin\Debug\netcoreapp3.1\CheckAccount.runtimeconfig.dev.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\bin\Debug\netcoreapp3.1\CheckAccount.dll
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\bin\Debug\netcoreapp3.1\CheckAccount.pdb
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\obj\Debug\netcoreapp3.1\CheckAccount.csproj.AssemblyReference.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\obj\Debug\netcoreapp3.1\CheckAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\obj\Debug\netcoreapp3.1\CheckAccount.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\obj\Debug\netcoreapp3.1\CheckAccount.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\obj\Debug\netcoreapp3.1\CheckAccount.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\obj\Debug\netcoreapp3.1\CheckAccount.dll
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\obj\Debug\netcoreapp3.1\CheckAccount.pdb
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\CheckAccount\CheckAccount\obj\Debug\netcoreapp3.1\CheckAccount.genruntimeconfig.cache

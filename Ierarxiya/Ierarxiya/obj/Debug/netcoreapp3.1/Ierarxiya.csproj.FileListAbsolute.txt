@@ -1,0 +1,13 @@
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.exe
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.deps.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.runtimeconfig.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.runtimeconfig.dev.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.dll
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\bin\Debug\netcoreapp3.1\Ierarxiya.pdb
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.dll
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.pdb
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Class,Constructor,Inheritance\Ierarxiya\Ierarxiya\Ierarxiya\obj\Debug\netcoreapp3.1\Ierarxiya.genruntimeconfig.cache
